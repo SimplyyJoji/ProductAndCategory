@@ -11,13 +11,13 @@ namespace ProductAndCate.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private ProductAndCategoryContext db;
+        public HomeController(ProductAndCategoryContext context)
+    {
+        db = context;
+    }
 
-        public HomeController(ILogger<HomeController> logger)
-        {
-            _logger = logger;
-        }
-
+        [HttpGet("")]
         public IActionResult Index()
         {
             return View();
