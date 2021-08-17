@@ -57,3 +57,7 @@
 /Users/javanogden/Desktop/CodingDojo/cSharp/ORM/ProductAndCategory/ProductAndCate/obj/Debug/netcoreapp3.1/ProductAndCate.dll
 /Users/javanogden/Desktop/CodingDojo/cSharp/ORM/ProductAndCategory/ProductAndCate/obj/Debug/netcoreapp3.1/ProductAndCate.pdb
 /Users/javanogden/Desktop/CodingDojo/cSharp/ORM/ProductAndCategory/ProductAndCate/obj/Debug/netcoreapp3.1/ProductAndCate.genruntimeconfig.cache
+/Users/javanogden/Desktop/CodingDojo/cSharp/ORM/ProductAndCategory/ProductAndCate/obj/Debug/netcoreapp3.1/Razor/Views/Home/Categories.cshtml.g.cs
+/Users/javanogden/Desktop/CodingDojo/cSharp/ORM/ProductAndCategory/ProductAndCate/obj/Debug/netcoreapp3.1/Razor/Views/Home/Products.cshtml.g.cs
+/Users/javanogden/Desktop/CodingDojo/cSharp/ORM/ProductAndCategory/ProductAndCate/obj/Debug/netcoreapp3.1/Razor/Views/Home/ViewCategories.cshtml.g.cs
+/Users/javanogden/Desktop/CodingDojo/cSharp/ORM/ProductAndCategory/ProductAndCate/obj/Debug/netcoreapp3.1/Razor/Views/ViewCategories.cshtml.g.cs

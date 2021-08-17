@@ -15,6 +15,7 @@ namespace ProductAndCate.Models
         public string Name { get; set; }
         public DateTime CreatedAt { get; set; } = DateTime.Now;
         public DateTime UpdatedAt { get; set; } = DateTime.Now;
-        public List<Product> Products { get; set; }
+
+        public List<Association> ProductList { get; set; }
     }
 }
