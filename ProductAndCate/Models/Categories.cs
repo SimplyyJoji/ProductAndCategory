@@ -4,10 +4,10 @@ using System.ComponentModel.DataAnnotations;
 
 namespace ProductAndCate.Models
 {
-    public class Categories
+    public class Category
     {
         [Key] // the below prop is the primary key, [Key] is not needed if named with pattern: ModelNameId
-        public int CategoriesId { get; set; }
+        public int CategoryId { get; set; }
 
         [Required(ErrorMessage = "is required")]
         [MinLength(2, ErrorMessage = "must be at least 2 characters")]

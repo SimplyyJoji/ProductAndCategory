@@ -14412,8 +14412,28 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "/Users/javanogden/Desktop/CodingDojo/cSharp/ORM/ProductAndCategory/ProductAndCate/Views/Home/Categories.cshtml",
+      "TargetPath": "Views\\Home\\Categories.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/javanogden/Desktop/CodingDojo/cSharp/ORM/ProductAndCategory/ProductAndCate/Views/ViewCategories.cshtml",
+      "TargetPath": "Views\\ViewCategories.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/javanogden/Desktop/CodingDojo/cSharp/ORM/ProductAndCategory/ProductAndCate/Views/Home/ViewCategories.cshtml",
+      "TargetPath": "Views\\Home\\ViewCategories.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "/Users/javanogden/Desktop/CodingDojo/cSharp/ORM/ProductAndCategory/ProductAndCate/Views/Home/Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/javanogden/Desktop/CodingDojo/cSharp/ORM/ProductAndCategory/ProductAndCate/Views/Home/Products.cshtml",
+      "TargetPath": "Views\\Home\\Products.cshtml",
       "FileKind": "mvc"
     },
     {

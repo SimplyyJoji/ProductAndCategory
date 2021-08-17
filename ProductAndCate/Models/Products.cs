@@ -25,6 +25,6 @@ namespace ProductAndCate.Models
         public string Price { get; set; }
         public DateTime CreatedAt { get; set; } = DateTime.Now;
         public DateTime UpdatedAt { get; set; } = DateTime.Now;
-        public List<Categories> Category { get; set; }
+        public List<Category> Categories { get; set; }
         }
     }

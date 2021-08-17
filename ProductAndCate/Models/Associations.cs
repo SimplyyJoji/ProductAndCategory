@@ -9,6 +9,6 @@ namespace ProductAndCate.Models
         public int ProductId { get; set; }
         public int CategoriesId { get; set; }
         public Product Product { get; set; }
-        public Categories Categories { get; set; }
+        public Category Category { get; set; }
     }
 }

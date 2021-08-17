@@ -17,8 +17,8 @@ namespace ProductAndCate.Controllers
         db = context;
     }
 
-        [HttpGet("")]
-        public IActionResult Index()
+        [HttpGet("/products")]
+        public IActionResult Products()
         {
             return View();
         }
