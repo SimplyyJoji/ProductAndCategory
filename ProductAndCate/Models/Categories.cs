@@ -16,6 +16,8 @@ namespace ProductAndCate.Models
         public DateTime CreatedAt { get; set; } = DateTime.Now;
         public DateTime UpdatedAt { get; set; } = DateTime.Now;
 
+         public int ProductId { get; set; } // FK 1 User : Many Post
+        public Product Products { get; set; }
         public List<Association> ProductList { get; set; }
     }
 }

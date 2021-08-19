@@ -25,6 +25,10 @@ namespace ProductAndCate.Models
         public string Price { get; set; }
         public DateTime CreatedAt { get; set; } = DateTime.Now;
         public DateTime UpdatedAt { get; set; } = DateTime.Now;
+
+
+        public int CategoryId { get; set; } // FK 1 User : Many Post
+        public Category Categories { get; set; }
         public List<Association> CategoryList { get; set; }
         }
     }
